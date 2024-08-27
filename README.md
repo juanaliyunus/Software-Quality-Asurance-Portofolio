@@ -1,7 +1,3 @@
-Berikut adalah struktur README yang menarik berdasarkan informasi yang telah kamu berikan:
-
----
-
 # Software Quality Assurance (SQA) Guide
 
 ## 1. Pengenalan Software Quality Assurance (SQA)
