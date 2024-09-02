@@ -1,4 +1,5 @@
 # Software Quality Assurance (SQA) Guide
+by Juan Aliyunus
 
 ## 1. Pengenalan Software Quality Assurance (SQA)
 
